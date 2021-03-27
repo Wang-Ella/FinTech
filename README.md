@@ -15,7 +15,7 @@
 
          
 ## HW
-- [X] [HW1]()
+- [X] [HW1](https://github.com/Wang-Ella/FinTech/tree/main/HW1)
 - [ ] [HW2]()
 - [ ] [HW3]()
 - [ ] [HW4]()
