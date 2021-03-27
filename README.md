@@ -13,7 +13,7 @@
 + 司福民
 
 修課名單 : https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0
-
+  
 ## HW
 - [X] [HW1](https://github.com/Wang-Ella/FinTech/tree/main/HW1)
 - [ ] [HW2]()
@@ -28,3 +28,6 @@
 系級 : 巨資二A
 
 學號 : 08170132
+
+## CathayLife_Project
+國泰人壽-題目二 [ 人臉分析之核保應用 ]
