@@ -1,8 +1,8 @@
 # FinTech
-## 課堂資訊
+## Course Information
 科目名稱 : [雲端運算服務](http://doc.sys.scu.edu.tw/teachplanHtml/1092/1092BDM21301.html)
 
-授課教師 : <font color="green">蔡芸琤</font> pecutsai@gm.scu.edu.tw
+授課教師 : 蔡芸琤 pecutsai@gm.scu.edu.tw
 
 教學助理 : 
 
@@ -12,8 +12,8 @@
 
 + 司福民
 
+修課名單 : https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0
 
-         
 ## HW
 - [X] [HW1](https://github.com/Wang-Ella/FinTech/tree/main/HW1)
 - [ ] [HW2]()
@@ -22,3 +22,9 @@
 - [ ] [HW5]()
 - [ ] [HW6]()
 
+## About me
+姓名 : 王沛璇 Ellawang8888@gmail.com
+
+系級 : 巨資二A
+
+學號 : 08170132
