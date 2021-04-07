@@ -17,7 +17,7 @@
 ## HW
 - [X] [HW1](https://github.com/Wang-Ella/FinTech/tree/main/HW1)
 - [x] [HW2](https://youtu.be/9le-HTh07u0)
-- [ ] [HW3]()
+- [X] [HW3](https://youtu.be/TyDT9IFE4Cw)
 - [ ] [HW4]()
 - [ ] [HW5]()
 - [ ] [HW6]()
