@@ -20,11 +20,20 @@
 - [X] [HW1-What do you think of Cloud Computing ?](https://github.com/Wang-Ella/FinTech/tree/main/HW1)  
   [助教ppt](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view) 
   、[課程錄影](https://drive.google.com/drive/folders/1QP_p6u0UABpZ1NTBF86dP3HG7rqTRxwZ)
-- [x] [HW2-Build a Website using Amazon EC2 with LAMP](https://youtu.be/9le-HTh07u0)
-- [X] [HW3](https://youtu.be/TyDT9IFE4Cw)
-- [ ] [HW4]()
-- [ ] [HW5]()
-- [ ] [HW6]()
+- [x] [HW2-Build a Website using Amazon EC2 with LAMP](https://youtu.be/9le-HTh07u0)  
+   [助教PPT](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)、[課程錄影](https://drive.google.com/drive/folders/1MaqK-3HvPeBFK-5OjdqAGHtW04jdkZnB)
+- [X] [HW3-Build a Website using Amazon S3(Versioning)
+and AWS Amplify](https://youtu.be/TyDT9IFE4Cw)  
+  [助教PPT](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)、[課程錄影](https://drive.google.com/drive/folders/1piSFgvRxU3414lnz42Fdb2LaKsxnUQQd)
+- [ ] [HW4-Build a Telegram Chatbot using Amazon API
+Gateway and AWS Lambda]()  
+  [助教PPT](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)、[課程錄影](https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE)
+- [ ] [HW5-Create a Database using Amazon RDS or
+Amazon DynamoDB]()  
+  [助教PPT]()、[課程錄影]()
+- [ ] [HW6-Create a Docker Container or Build your own
+Project Services]()  
+  [助教PPT]()、[課程錄影]()
 
 ## About me
 姓名 : 王沛璇 Ellawang8888@gmail.com
