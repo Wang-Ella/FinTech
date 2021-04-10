@@ -18,7 +18,7 @@
 
 ## HW
 - [X] [HW1-What do you think of Cloud Computing ?](https://github.com/Wang-Ella/FinTech/tree/main/HW1)  
-  [評分標準](HW1.png)、[助教ppt](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view) 
+  [助教ppt](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view) 
   、[課程錄影](https://drive.google.com/drive/folders/1QP_p6u0UABpZ1NTBF86dP3HG7rqTRxwZ)
 - [x] [HW2-Build a Website using Amazon EC2 with LAMP](https://youtu.be/9le-HTh07u0)
 - [X] [HW3](https://youtu.be/TyDT9IFE4Cw)
