@@ -25,8 +25,8 @@
 - [X] [HW3-Build a Website using Amazon S3(Versioning)
 and AWS Amplify](https://youtu.be/TyDT9IFE4Cw)  
   [助教PPT](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)、[課程錄影](https://drive.google.com/drive/folders/1piSFgvRxU3414lnz42Fdb2LaKsxnUQQd)
-- [ ] [HW4-Build a Telegram Chatbot using Amazon API
-Gateway and AWS Lambda]()  
+- [X] [HW4-Build a Telegram Chatbot using Amazon API
+Gateway and AWS Lambda](https://youtu.be/NSwMkAcXTdQ)  
   [助教PPT](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)、[課程錄影](https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE)
 - [ ] [HW5-Create a Database using Amazon RDS or
 Amazon DynamoDB]()  
