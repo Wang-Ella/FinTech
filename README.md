@@ -30,10 +30,10 @@ Gateway and AWS Lambda](https://youtu.be/NSwMkAcXTdQ)
   [助教PPT](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)、[課程錄影](https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE)
 - [ ] [HW5-Create a Database using Amazon RDS or
 Amazon DynamoDB]()  
-  [助教PPT]()、[課程錄影]()
+  [助教PPT](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)、[課程錄影](https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-)
 - [ ] [HW6-Create a Docker Container or Build your own
 Project Services]()  
-  [助教PPT]()、[課程錄影]()
+  [助教PPT](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)、[課程錄影](https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A)
 
 ## About me
 姓名 : 王沛璇 
