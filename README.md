@@ -36,7 +36,7 @@ Project Services]()
   [助教PPT]()、[課程錄影]()
 
 ## About me
-姓名 : 王沛璇 Ellawang8888@gmail.com
+姓名 : 王沛璇 
 
 系級 : 巨資二A
 
