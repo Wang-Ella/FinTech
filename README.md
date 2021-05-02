@@ -28,8 +28,8 @@ and AWS Amplify](https://youtu.be/TyDT9IFE4Cw)
 - [X] [HW4-Build a Telegram Chatbot using Amazon API
 Gateway and AWS Lambda](https://youtu.be/NSwMkAcXTdQ)  
   [助教PPT](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)、[課程錄影](https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE)
-- [ ] [HW5-Create a Database using Amazon RDS or
-Amazon DynamoDB]()  
+- [x] [HW5-Create a Database using Amazon RDS or
+Amazon DynamoDB](https://youtu.be/0Xxgk7_XmfI)  
   [助教PPT](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)、[課程錄影](https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-)
 - [ ] [HW6-Create a Docker Container or Build your own
 Project Services]()  
