@@ -61,5 +61,5 @@ Project Services]()
 
 實作方向: 特徵分類、影像辨識、機器學習、模型回歸、保險業務流程優化  
 
-介紹影片: https://reurl.cc/8y0Eag 
+介紹影片: https://reurl.cc/8y0Eag     
 [第一次匯報影片](https://docs.google.com/spreadsheets/d/1Cw4PVDJr2_jQxhCEoAp5ZCJqW3F4mP15iTis3l_RRrk/edit#gid=1585268978)
