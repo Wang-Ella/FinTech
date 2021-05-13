@@ -32,7 +32,7 @@ Gateway and AWS Lambda](https://youtu.be/NSwMkAcXTdQ)
 Amazon DynamoDB](https://youtu.be/0Xxgk7_XmfI)  
   [助教PPT](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)、[課程錄影](https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-)
 - [ ] [HW6-Create a Docker Container or Build your own
-Project Services]()  
+Project Services](https://youtu.be/59np9RbTzn0)  
   [助教PPT](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)、[課程錄影](https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A)、[課程錄影2](https://drive.google.com/drive/folders/1n70P9nWd8C9alEHDqOM7QziRLS0uyEOv)
 
 ## About me
