@@ -45,6 +45,7 @@ Project Services](https://youtu.be/59np9RbTzn0)
 
 ## CathayLife_Project
 國泰人壽-題目二-人臉分析之核保應用
+
 業師：陳宗霆  
 指導老師：彭金隆（政大風管） 
 
